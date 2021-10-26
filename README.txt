@@ -1,1 +1,1 @@
-ReadMe file for my project.
+This respository has my Mobile App Programming 1 class project. 
